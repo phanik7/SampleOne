@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.8.0)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - FBSDKCoreKit (4.17.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.17.0):
+    - FBSDKCoreKit
+  - IQKeyboardManagerSwift (6.2.0)
+  - NVActivityIndicatorView (4.5.0):
+    - NVActivityIndicatorView/Presenter (= 4.5.0)
+  - NVActivityIndicatorView/Presenter (4.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FBSDKCoreKit (= 4.17.0)
+  - FBSDKLoginKit (= 4.17.0)
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Bolts
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  FBSDKCoreKit: 30a21d2d7b92984b3d80497113433c00824c35e9
+  FBSDKLoginKit: 42b7129ac0373ca99eaf4cbebf4d07bd42371f59
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  NVActivityIndicatorView: 1e4e3ed79248cf1666af182593c3a2acf0fcf193
+
+PODFILE CHECKSUM: 7ea7ed1a26a0f5b9c5ac0e79e54c0cd624084474
+
+COCOAPODS: 1.5.3
